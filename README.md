@@ -1,8 +1,5 @@
-# nr1
-## first one
-and text here
+### Data Science Specialization 
 
-* one
-* two
-* three
-
+* Uses R 
+* Nine courses 
+* Goes from raw data to data products
